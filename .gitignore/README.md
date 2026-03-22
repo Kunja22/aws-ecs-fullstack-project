@@ -1,1 +1,2 @@
-tydtycghc
+node_modules/
+.env
