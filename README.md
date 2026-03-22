@@ -1,1 +1,0 @@
-# aws-ecs-fullstack-project
